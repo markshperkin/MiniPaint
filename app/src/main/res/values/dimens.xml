@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your small font size -->
+    <dimen name="small_font_size">5sp</dimen>
+
+    <!-- Define your medium font size -->
+    <dimen name="medium_font_size">10sp</dimen>
+
+    <!-- Define your large font size -->
+    <dimen name="large_font_size">16sp</dimen>
+</resources>
