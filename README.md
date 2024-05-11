@@ -24,8 +24,5 @@
     <li><strong>Professor's Starter App by Robert Bailey:</strong> Basis for building the Painter app.</li>
   </ul>
 
-  <h2>Support</h2>
-  <p>For support or inquiries, please contact <a href="mailto:markshperkin1@gmail.com">Mark Shperkin</a>.</p>
-
 </body>
 </html>
